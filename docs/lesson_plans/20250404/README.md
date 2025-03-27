@@ -13,7 +13,7 @@ Lesson setup:
     - be clear what content is shared,
     - encourage groups to look for topics of both interest
 
-Todo:
+To do:
 
 - Prepare priors
 - Prepare feedback
