@@ -17,7 +17,7 @@ install.packages("swirl")
 
 ## Start `swirl`
 
-```
+```r
 > swirl::swirl()
 
 | Welcome to swirl! Please sign in. If you've been here before, use
