@@ -14,12 +14,12 @@ Before the course, you must have done these **two** things:
 
 ???- question "Any questions about this?"
 
-    - See [the 'Prerequisites' section of the Frequently Asked Questions page](../faq.md#prerequisites)
+    - See [the 'Prerequisites' section of the Frequently Asked Questions page](faq.md#prerequisites)
 
 ???- question "How can I check this?"
 
-    - See [the 'Prerequisites' section of the Frequently Asked Questions page](../faq.md#prerequisites)
+    - See [the 'Prerequisites' section of the Frequently Asked Questions page](faq.md#prerequisites)
 
 ???- question "What if I have another question?"
 
-    - See the [Frequently Asked Questions section](../faq.md)
+    - See the [Frequently Asked Questions section](faq.md)
