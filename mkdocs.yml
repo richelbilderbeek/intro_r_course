@@ -1,0 +1,70 @@
+site_name: Intro to Python
+repo_url: https://github.com/UPPMAX/naiss_intro_python
+edit_uri: blob/main/docs/
+
+nav:
+  - Start: index.md
+  - Learning outcomes: learning_outcomes.md
+  - Prerequisites: prerequisites.md
+  - Course dates: course_dates.md
+  - Schedule: schedule.md
+  - Sessions:
+    - 1: session_1.md
+    - 2: session_2.md
+    - 3: session_3.md
+  - Misc:
+    - Books: books.md
+    - Lesson plans: lesson_plans/README.md
+  - Contact us: contact_us.md
+
+theme:
+  name: material
+  greetings: Welcome to the 'Intro to R' course
+  font:
+    text: Lato
+    code: JetBrains Mono
+  logo: logo/r_written.svg
+
+  features:
+    - toc.integrate
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.footer
+    - navigation.expand
+    - search.suggest
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.action.edit
+    - content.action.view
+
+markdown_extensions:
+  - toc:
+      toc_depth: 3
+      permalink: true
+      permalink_title: Anchor link to this section for reference
+  - admonition
+  - tables
+  - attr_list
+  - footnotes
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.keys
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
