@@ -14,7 +14,10 @@ nav:
     - 3: session_3.md
   - Misc:
     - Books: books.md
+    - Evaluation: evaluation.md
+    - Evaluations: evaluations/README.md
     - Lesson plans: lesson_plans/README.md
+    - Reflections: reflections/README.md
   - Contact us: contact_us.md
 
 theme:
