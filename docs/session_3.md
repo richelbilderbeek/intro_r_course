@@ -20,5 +20,7 @@
 
 ## Why?
 
+[R for data science](https://r4ds.hadley.nz/) chapter 3.
+
 ## Exercises
-# Session 3
+

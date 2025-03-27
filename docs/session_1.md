@@ -20,4 +20,8 @@
 
 ## Why?
 
+[R for data science](https://r4ds.hadley.nz/) chapter 1.
+
 ## Exercises
+
+
