@@ -1,5 +1,5 @@
-site_name: Intro to Python
-repo_url: https://github.com/UPPMAX/naiss_intro_python
+site_name: Intro to R
+repo_url: https://github.com/richelbilderbeek/intro_r_course
 edit_uri: blob/main/docs/
 
 nav:
