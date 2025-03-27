@@ -13,7 +13,7 @@ tags:
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-Week|Date                     |Time     
+Week|Date                     |Time
 ----|-------------------------|-----------
 14  |Friday April 4th 2025    |13:00-16:00
 
