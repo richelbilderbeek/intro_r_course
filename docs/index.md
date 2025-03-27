@@ -1,6 +1,6 @@
 # Intro to R course
 
-![The R logo](r_logo_50.png)
+![The R logo](r_logo_25.png)
 
 This course introduces the foundations of the R programming language.
 
