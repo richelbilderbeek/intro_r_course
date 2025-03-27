@@ -1,5 +1,7 @@
 Richèl
 Bilderbeek
+Latz
+Meike
 config
 json
 jsonc
