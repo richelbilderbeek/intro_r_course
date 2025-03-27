@@ -1,5 +1,6 @@
 Richèl
 Bilderbeek
+richelbilderbeek
 Latz
 Meike
 config
@@ -15,3 +16,7 @@ yml
 
 RStudio
 tidyverse
+th
+github
+https
+Routledge
