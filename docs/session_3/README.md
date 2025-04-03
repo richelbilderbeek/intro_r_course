@@ -1,4 +1,4 @@
-# Session 3
+# Data transformation
 
 !!!- info "Learning outcomes"
 

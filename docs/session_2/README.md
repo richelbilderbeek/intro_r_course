@@ -1,4 +1,4 @@
-# Session 2
+# Basic R
 
 !!!- info "Learning outcomes"
 

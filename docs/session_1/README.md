@@ -1,4 +1,4 @@
-# Session 1
+# Plotting
 
 !!!- info "Learning outcomes"
 

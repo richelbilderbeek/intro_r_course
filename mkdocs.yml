@@ -9,9 +9,9 @@ nav:
   - Course dates: course_dates.md
   - Schedule: schedule.md
   - Sessions:
-    - 1: session_1/README.md
-    - 2: session_2/README.md
-    - 3: session_3/README.md
+    - 1. Plotting: session_1/README.md
+    - 2. Basic R: session_2/README.md
+    - 3. Data transformation: session_3/README.md
   - Misc:
     - Books: books.md
     - Evaluation: evaluation.md
