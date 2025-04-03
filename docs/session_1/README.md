@@ -41,6 +41,8 @@
 
 ## Why `ggplot2` is important
 
+![The `ggplot2` logo](../logo/ggplot2_logo_5.png)
+
 `ggplot2` allows you to create publication-quality graphs for your paper,
 using a unified (and extentible) grammar,
 which allows you to express your unique

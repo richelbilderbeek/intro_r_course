@@ -22,6 +22,7 @@
 
 ## Why basic R is important
 
+![The R logo](../logo/r_logo_25.png)
 
 ## Exercises
 
