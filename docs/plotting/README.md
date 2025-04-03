@@ -44,7 +44,7 @@
 ![The `ggplot2` logo](../logo/ggplot2_logo_5.png)
 
 `ggplot2` allows you to create publication-quality graphs for your paper,
-using a unified (and extentible) grammar,
+using a unified (and extensible) grammar,
 which allows you to express your unique
 plotting needs.
 
