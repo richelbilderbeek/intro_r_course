@@ -9,9 +9,9 @@ nav:
   - Course dates: course_dates.md
   - Schedule: schedule.md
   - Sessions:
-    - 1: session_1.md
-    - 2: session_2.md
-    - 3: session_3.md
+    - 1: session_1/README.md
+    - 2: session_2/README.md
+    - 3: session_3/README.md
   - Misc:
     - Books: books.md
     - Evaluation: evaluation.md
