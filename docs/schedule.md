@@ -19,9 +19,9 @@ tags:
 
 Time        | Topic
 ------------|-----------------------------------------------------------------
-13:00-14:00 | Session 1
+13:00-14:00 | [Plotting](plotting/README.md)
 14:00-14:15 | Break
-14:15-15:00 | Session 2
+14:15-15:00 | [Basic R](basic_r/README.md)
 15:00-15:15 | Break
-15:15-15:45 | Session 3
+15:15-15:45 | [Data transformation](data_transformation/README.md)
 15:45-16:00 | [Evaluation](evaluation.md)

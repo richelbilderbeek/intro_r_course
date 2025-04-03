@@ -14,11 +14,18 @@
 
     Prior question:
 
-    - .
+    - Which verbs do you associate with working with data?
+    - What is tidy data?
+    - What is a pipe?
+    - When to use a pipe?
+    - What is the different between `=` and `==`?
 
     Feedback questions:
 
-    - .
+    - What is tidy data?
+    - What is a pipe?
+    - When to use a pipe?
+    - What is the different between `=` and `==`?
 
 ## Why data transformations are important
 
