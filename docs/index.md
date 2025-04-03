@@ -1,6 +1,6 @@
 # Intro to R course
 
-![The Tidyverse logo](logo/tidyverse_logo_25.png)
+![The Tidyverse logo](logo/tidyverse_logo_20.png)
 ![The R logo](logo/r_logo_25.png)
 ![The ggplot2 logo](logo/ggplot2_logo_5.png)
 ![The dplyr logo](logo/dplyr_logo_50.png)
