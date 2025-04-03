@@ -117,7 +117,50 @@ Make a scatterplot of `bill_depth_mm` vs. `bill_length_mm`.
 That is, make a scatterplot with `bill_depth_mm` on the y-axis and
 `bill_length_mm` on the x-axis.
 
+???- question "Answer"
+
+    First, activate the `ggplot2` package:
+
+    ```r
+    library(ggplot2)
+    ```
+
+    Then, start with this code in section 1.2.3:
+
+    ```r
+    ggplot(
+      data = penguins,
+      mapping = aes(x = flipper_length_mm, y = body_mass_g)
+    ) +
+      geom_point()
+    ```
+
+    Then, replace `flipper_length_mm` by `bill_length_mm`
+    and `body_mass_g` by `bill_depth_mm`:
+
+    ```r
+    ggplot(
+      data = penguins,
+      mapping = aes(x = bill_length_mm, y = bill_depth_mm)
+    ) +
+      geom_point()
+    ```
+
+    This will look like:
+
+    ![Answer 1.2.5.4](answer_1_2_5_3.png)
+
 Describe the relationship between these two variables.
+
+???- question "Answer"
+
+    It seems that there are at least 2 groups.
+
+    It is hard to determine if there is a relationship at all.
+
+#### 1.2.5.4
+
+What happens if you make a scatterplot of `species` vs. `bill_depth_mm`? 
 
 ???- question "Answer"
 
@@ -136,26 +179,73 @@ Describe the relationship between these two variables.
     ```r
     ggplot(
       data = penguins,
-      mapping = aes(x = bill_length_mm, y = bill_depth_mm)
+      mapping = aes(x = species, y = bill_depth_mm)
     ) +
       geom_point()
     ```
 
+    This will look like:
 
-#### 1.2.5.4
+    ![Answer 1.2.5.4 scatter](answer_1_2_5_4_scatter.png)
 
-What happens if you make a scatterplot of species vs. bill_depth_mm? What might be a better choice of geom?
+What might be a better choice of `geom`?
+
+???- question "Answer"
+
+    Using `geom_boxplot`:
+
+    ```r
+    ggplot(
+      data = penguins,
+      mapping = aes(x = species, y = bill_depth_mm)
+    ) +
+      geom_boxplot()
+    ```
+
+    This will look like:
+
+    ![Answer 1.2.5.4 scatter](answer_1_2_5_4_boxplot.png)
+
 
 #### 1.2.5.5
 
 Why does the following give an error and how would you fix it?
 
+```r
 ggplot(data = penguins) + 
   geom_point()
+```
+
+???- question "Answer"
+
+    The error will be:
+
+    ```r
+    Error in `geom_point()`:
+    ! Problem while setting up geom.
+    ℹ Error occurred in the 1st layer.
+    Caused by error in `compute_geom_1()`:
+    ! `geom_point()` requires the following missing aesthetics: x
+      and y.
+    Run `rlang::last_trace()` to see where the error occurred.
+    ```
+
+    This can be fixed by specifying what the `x` and `y` aesthetics
+    are, for example:
+
+    ```r
+    ggplot(
+      data = penguins,
+      mapping = aes(x = flipper_length_mm, y = body_mass_g)
+    ) +
+      geom_point()
+    ```
 
 #### 1.2.5.6
 
-What does the na.rm argument do in geom_point()? What is the default value of the argument? Create a scatterplot where you successfully use this argument set to TRUE.
+What does the `na.rm` argument do in `geom_point()`? 
+
+What is the default value of the argument? Create a scatterplot where you successfully use this argument set to TRUE.
 
 #### 1.2.5.7
 
