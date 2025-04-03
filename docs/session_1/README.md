@@ -2,36 +2,56 @@
 
 !!!- info "Learning outcomes"
 
-    - .
+    - Comfortable with the first chapter of
+      [R for Data Science](https://r4ds.hadley.nz/)
+    - Can use `ggplot2` for simple plots
+    - Can create simple ggplots from tidy data
+    - Can set the aesthetics `x`, `y` and `color`
+    - Can use `geom_scatter`, `geom_boxplot` and `geom_smooth`
+      for simple aesthetics
 
 ???- question "For teachers"
 
     Teaching goals are:
 
-    - .
+    - Learners have read part of the first chapter of
+      [R for Data Science](https://r4ds.hadley.nz/)
+    - Learners have created simple plots in `ggplot2`
+    - Learners can create simple ggplots from tidy data
+    - Learners can set the aesthetics `x`, `y` and `color`
+    - Learners can use `geom_scatter`, `geom_boxplot` and `geom_smooth`
+      for simple aesthetics
 
-    Prior and feedback question:
-
+    Prior question:
 
     - What is the most used use R package for plotting?
     - What is `gg` in `ggplot2`?
+    - What is tidy data?
+    - There is a philosophy that 'missing values should
+      never silently go missing'. What does that mean?
 
-    Lesson plan:
+    Feedback questions:
 
-    - .
+    - What is `gg` in `ggplot2`?
+    - What is tidy data?
+    - What is an aesthetic?
+    - What is a `geom`?
+    - The philosophy that 'missing values should
+      never silently go missing'. What does this mean?
 
-## Why?
+## Why `ggplot2` is important
+
+`ggplot2` allows you to create publication-quality graphs for your paper,
+using a unified (and extentible) grammar,
+which allows you to express your unique
+plotting needs.
 
 ## Exercises
-
-
 
 ### Exercise 1
 
 Read [R for data science, chapter 1](https://r4ds.hadley.nz/data-visualize.html)
 until the exercises of 1.2.5
-
-
 
 #### 1.2.5.1
 
@@ -245,21 +265,124 @@ ggplot(data = penguins) +
 
 What does the `na.rm` argument do in `geom_point()`? 
 
-What is the default value of the argument? Create a scatterplot where you successfully use this argument set to TRUE.
+???- question "Answer"
+
+    Type:
+
+    ```r
+    ?geom_point
+    ```
+
+    to find:
+
+    > `na.rm`
+    >
+    > If `FALSE`, the default, missing values are removed with a warning.
+    > If `TRUE`, missing values are silently removed.
+
+What is the default value of the argument? 
+
+???- question "Answer"
+
+    Type:
+
+    ```r
+    ?geom_point
+    ```
+
+    to find:
+
+    > `na.rm`
+    >
+    > If `FALSE`, the default, missing values are removed with a warning.
+    > If `TRUE`, missing values are silently removed.
+
+    The documentation states that `FALSE` is the default
+
+Create a scatterplot where you successfully use this argument set to TRUE.
+
+???- question "Answer"
+
+    Replace `geom_point()` by `geom_point(na.rm = TRUE)`,
+    for example:
+
+    ```r
+    ggplot(
+      data = penguins,
+      mapping = aes(x = flipper_length_mm, y = body_mass_g)
+    ) +
+      geom_point(na.rm = TRUE)
+    ```
 
 #### 1.2.5.7
 
-Add the following caption to the plot you made in the previous exercise: “Data come from the palmerpenguins package.” Hint: Take a look at the documentation for labs().
+Add the following caption to the plot you made in the previous exercise: 
+'Data come from the palmerpenguins package.'
+
+Hint: Take a look at the documentation for `labs()`.
+
+
+???- question "Answer"
+
+    Do:
+
+    ```r
+    ?labs
+    ```
+
+    There, you can see that there is a `caption` element.
+
+    If you scroll down to the example, you see how `labs` is used.
+    Applying this to our code:
+
+    ```r
+    ggplot(
+      data = penguins,
+      mapping = aes(x = flipper_length_mm, y = body_mass_g)
+    ) + 
+      geom_point() + 
+      labs(caption = "Data come from the palmerpenguins package")
+    ```
 
 #### 1.2.5.8
 
-Recreate the following visualization. What aesthetic should bill_depth_mm be mapped to? And should it be mapped at the global level or at the geom level?
+Recreate the following visualization:
 
-A scatterplot of body mass vs. flipper length of penguins, colored  by bill depth. A smooth curve of the relationship between body mass  and flipper length is overlaid. The relationship is positive,  fairly linear, and moderately strong.
+![Answer of 1.2.5.8](answer_1_2_5_8.png)
+
+What aesthetic should `bill_depth_mm` be mapped to?
+And should it be mapped at the global level or at the `geom` level?
+
+???- question "Answer"
+
+    The `bill_depth_mm` must be mapped to the `color` aesthetic.
+    This aesthetic should be mapped to the global level,
+    as this applies to all individuals.
+
+    This results in the following aesthetic:
+
+    ```r
+    aes(x = flipper_length_mm, y = body_mass_g, color = bill_depth_mm)
+    ```
+
+    To add the trendline, add `geom_smoot()`.
+
+    This results in:
+
+    ```r
+    ggplot(
+      data = penguins,
+      mapping = aes(x = flipper_length_mm, y = body_mass_g, color = bill_depth_mm)
+    ) +
+      geom_point() +
+      geom_smooth()
+    ```
+
 
 #### 1.2.5.9
 
-Run this code in your head and predict what the output will look like. Then, run the code in R and check your predictions.
+Run this code in your head and predict what the output will look like.
+Then, run the code in R and check your predictions.
 
 ```r
 ggplot(
@@ -269,6 +392,15 @@ ggplot(
   geom_point() +
   geom_smooth(se = FALSE)
 ```
+
+???- question "Answer"
+
+    This shows the flipper lengths versus body masses per island,
+    where the points are colored different per island.
+    There will be a trendline per island, as the island
+    is a global aesthetic.
+
+    ![Answer 1.2.5.9](answer_1_2_5_9.png)
 
 #### 1.2.5.10
 
@@ -293,3 +425,33 @@ ggplot() +
   )
 ```
 
+???- question "Answer"
+
+    The first plot will has the flipper length and body masses
+    global, so that the `geom_point` and `geom_smooth` will
+    work on that same data.
+
+    The second plot has no global data. 
+    Instead, it will provide exactly the same flipper lengths and body masses
+    to both the `geom_point` and `geom_smooth`.
+
+    This means the plots will look exactly the same.
+
+### (optional) Exercise 2
+
+- Read [R for data science, chapter 1](https://r4ds.hadley.nz/data-visualize.html)
+  until the exercises of 1.4.3.
+- Do these exercises
+
+
+### (optional) Exercise 3
+
+- Read [R for data science, chapter 1](https://r4ds.hadley.nz/data-visualize.html)
+  until the exercises of 1.5.5
+- Do these exercises
+
+### (optional) Exercise 4
+
+- Read [R for data science, chapter 1](https://r4ds.hadley.nz/data-visualize.html)
+  until the exercises of 1.6.1
+- Do these exercises
