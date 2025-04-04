@@ -13,7 +13,7 @@ nav:
     - Basic R: basic_r/README.md
     - Data transformation: data_transformation/README.md
   - Misc:
-    - Books: books.md
+    - Books: books/README.md
     - Evaluation: evaluation.md
     - Evaluations: evaluations/README.md
     - Frequently asked questions: faq.md
