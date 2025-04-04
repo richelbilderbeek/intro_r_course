@@ -48,8 +48,9 @@ Basic R applies to all programming in R.
 
 ### Exercise 1
 
-Read [R for data science, chapter 2](https://r4ds.hadley.nz/workflow-basics.html)
-until the exercises of 2.5.
+- Read [R for data science, chapter 2](https://r4ds.hadley.nz/workflow-basics.html)
+  until the exercises of 2.5.
+- Do these exercises
 
 ???- question "Answers"
 

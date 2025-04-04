@@ -49,8 +49,9 @@ To do data transformations, you will first need to read it.
 
 ### Exercise 1
 
-Read [R for data science, chapter 3](https://r4ds.hadley.nz/data-transform.html)
-until the exercises of 3.2.5.
+- Read [R for data science, chapter 3](https://r4ds.hadley.nz/data-transform.html)
+  until the exercises of 3.2.5.
+- Do these exercises
 
 ???- question "Answers"
 
@@ -60,8 +61,9 @@ until the exercises of 3.2.5.
 
 ### Exercise 2
 
-Read [R for data science, chapter 7](https://r4ds.hadley.nz/data-import.html)
-until the exercises of 7.2.4.
+- Read [R for data science, chapter 7](https://r4ds.hadley.nz/data-import.html)
+  until the exercises of 7.2.4.
+- Do these exercises
 
 ???- question "Answers"
 

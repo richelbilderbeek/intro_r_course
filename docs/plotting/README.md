@@ -51,8 +51,9 @@ plotting needs.
 
 ### Exercise 1
 
-Read [R for data science, chapter 1](https://r4ds.hadley.nz/data-visualize.html)
-until the exercises of 1.2.5
+- Read [R for data science, chapter 1](https://r4ds.hadley.nz/data-visualize.html)
+  until the exercises of 1.2.5
+- Do these exercises
 
 ???- question "Answers"
 
