@@ -26,3 +26,7 @@ ggplot
 ggplots
 palmerpenguins
 scatterplot
+checkmark
+Goodson
+Ludwika
+Nilson
