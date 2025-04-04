@@ -4,8 +4,8 @@
 
 - Number of learners: 14
 - Number of evaluation results: 12 (86% filled in)
-- [Starting condidences](start.csv)
-- [Final condidences and feedback](final.csv)
+- [Starting confidences](start.csv)
+- [Final confidences and feedback](final.csv)
 
 ## Analysis
 
