@@ -13,9 +13,5 @@ starting to learn R and the Tidyverse.
 - Can tell what snake case is
 - Can write a comment
 - Can correct typos in simple code
-- Can use the pipe operator
-- Can use a filter
-- Can use the logical equal operator
-- Can read a file
 
 The learning outcomes are tested in [the evaluation](evaluation.md).
