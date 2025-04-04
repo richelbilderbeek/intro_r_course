@@ -42,6 +42,8 @@
 
 ![The R logo](../logo/r_logo_25.png)
 
+Basic R applies to all programming in R.
+
 ## Exercises
 
 ### Exercise 1

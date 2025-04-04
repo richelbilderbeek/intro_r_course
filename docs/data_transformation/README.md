@@ -1,4 +1,4 @@
-# Data transformation
+# Data transformation and reading a file
 
 !!!- info "Learning outcomes"
 
@@ -35,6 +35,16 @@
 
 ![The dplyr logo](../logo/dplyr_logo_50.png)
 
+Whenever you have your raw data, this is rarely shown in a paper as-is.
+Instead, you will probably show only certain columns, or certain subsets,
+give average over categories, etc. All these things are
+called 'data transformations'.
+
+## Why reading a file is important
+
+Whenever you have your raw data, you have it in one or more files.
+To do data transformations, you will first need to read it.
+
 ## Exercises
 
 ### Exercise 1
@@ -58,4 +68,3 @@ until the exercises of 7.2.4.
     [See the answers here](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/data-import.html)
 
     Note that the answers use chapter 8.2.4.
-
