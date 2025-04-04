@@ -75,9 +75,10 @@ plot_histrogram(t_post)
 
 mean_pre <- mean(t[t$when == "pre", ]$answer)
 mean_post <- mean(t[t$when == "post", ]$answer)
-ks_test <- ks.test(t[t$when == "pre", ]$answer, t[t$when == "post", ]$answer)
-ks_test_p_value <- ks_test$p.value
-ks_test_is_different <- ks_test$p.value < alpha_value
+# mwu: Mann-Whitney U test
+mwu_test <- wilcox.test(t[t$when == "pre", ]$answer, t[t$when == "post", ]$answer)
+mwu_test_p_value <- mwu_test$p.value
+mwu_test_is_different <- mwu_test$p.value < alpha_value
 
 ggplot2::ggplot(t, ggplot2::aes(x = answer, fill = when)) +
   ggplot2::geom_density(alpha = 0.5) + 
@@ -88,9 +89,9 @@ ggplot2::ggplot(t, ggplot2::aes(x = answer, fill = when)) +
     caption = paste0(
       "Mean pre: ", format(mean_pre, digits = 2), ", ",
       "Mean post: ", format(mean_post, digits = 2), "\n",
-      "p value from KS test: ", format(ks_test_p_value, digits = 2), ", ",
+      "p value from Mann-Whitney U test: ", format(mwu_test_p_value, digits = 2), ", ",
       "alpha value: ", alpha_value, ", ",
-      "different: ", ks_test_is_different
+      "different: ", mwu_test_is_different
     )
   )
 
@@ -129,7 +130,7 @@ t_stats <- tibble::tibble(question = unique(t$question), mean_pre = NA, mean_pos
 for (question in unique(t$question)) {
   pre_values <- t[t$question == question & t$when == "pre", ]$answer
   post_values <- t[t$question == question & t$when == "post", ]$answer
-  p <- ks.test(pre_values, post_values)
+  p <- wilcox.test(pre_values, post_values)
   t_stats[t_stats$question == question, ]$mean_pre <- mean(pre_values)
   t_stats[t_stats$question == question, ]$mean_post <- mean(post_values)
   t_stats[t_stats$question == question, ]$p_value <- p$p.value
