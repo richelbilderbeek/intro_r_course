@@ -9,6 +9,7 @@ nav:
   - Course dates: course_dates.md
   - Schedule: schedule.md
   - Sessions:
+    - Introduction: introduction.md
     - Plotting: plotting/README.md
     - Basic R: basic_r/README.md
     - Data transformation: data_transformation/README.md
