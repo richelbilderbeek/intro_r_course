@@ -1,6 +1,9 @@
 # Evaluation 2025-04-04
 
 - Reflections: [Richèl](../../reflections/20250404/README.md)
+- [Starting condidences](start.csv)
+- [Final condidences and feedback](final.csv)
+- [R analysis script](analyse.R)
 
 ![All confidences](all_confidences.png)
 
