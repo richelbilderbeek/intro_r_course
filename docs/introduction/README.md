@@ -69,4 +69,4 @@ Feel comfortable to learn R from a Tidyverse-first approach.
 
 ![The Zoom green checkmark](zoom_green_checkmark.png)
 
-- 
+-
