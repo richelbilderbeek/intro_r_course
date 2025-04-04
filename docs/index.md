@@ -15,4 +15,3 @@ from a Tidyverse-first approach.
 [Evaluation](evaluation.md){ .md-button .md-button--primary }
 [Contact us](contact_us.md){ .md-button .md-button--primary }
 
-
