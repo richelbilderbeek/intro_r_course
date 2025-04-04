@@ -20,3 +20,7 @@ To do:
 - [x] Prepare priors
 - [x] Prepare feedback
 
+Hmmm, only now do I see that this course will be until 15:00.
+Or **can** I have them until 16:00?
+
+![Part of the sschedule](schedule.png)
