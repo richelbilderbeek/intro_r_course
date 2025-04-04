@@ -21,9 +21,9 @@
 
 - `[Bell, 2020]` Bell, Mike. The fundamentals of teaching:
   A five-step model to put the research evidence into practice. Routledge, 2020.
-
 - `[Nilson & Goodson, 2021]` Nilson, Linda B., and Ludwika A. Goodson.
-  Online teaching at its best: Merging instructional design with teaching and learning research. John Wiley & Sons, 2021.
+  Online teaching at its best: Merging instructional design with teaching
+  and learning research. John Wiley & Sons, 2021.
 
 > - [...] long lectures and presentations will fail because students stop
 >   viewing and listening after about six minutes.
