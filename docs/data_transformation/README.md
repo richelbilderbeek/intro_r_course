@@ -60,5 +60,3 @@ until the exercises of 7.2.4.
 
     Note that the answers use chapter 8.2.4.
 
-
-
