@@ -48,7 +48,6 @@ until the exercises of 3.2.5.
 
     Note that the answers use chapter 4.2.
 
-
 ### Exercise 2
 
 Read [R for data science, chapter 7](https://r4ds.hadley.nz/data-import.html)
