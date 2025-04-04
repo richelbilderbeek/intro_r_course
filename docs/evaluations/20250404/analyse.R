@@ -10,6 +10,7 @@ t_pre_raw <- readr::read_csv(prevaluation_file, show_col_types = FALSE)
 t_post_raw <- readr::read_csv(evaluation_file, show_col_types = FALSE)
 
 other_feedback_post <- t_post_raw[, 12]
+readr::write_csv(other_feedback_post, "feedback.csv")
 
 t_post_raw[, 12] <- NULL
 t_pre_raw$Timestamp <- NULL
