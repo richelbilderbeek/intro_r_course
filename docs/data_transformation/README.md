@@ -2,8 +2,12 @@
 
 !!!- info "Learning outcomes"
 
-    - Comfortable with the third chapter of
+    - Comfortable with the third and seventh chapter of
       [R for Data Science](https://r4ds.hadley.nz/)
+    - Can use the pipe operator
+    - Can use a filter
+    - Can use the logical equal operator
+    - Can read a file
 
 ???- question "For teachers"
 
@@ -36,4 +40,25 @@
 ### Exercise 1
 
 Read [R for data science, chapter 3](https://r4ds.hadley.nz/data-transform.html)
-until the exercises of ...
+until the exercises of 3.2.5.
+
+???- question "Answers"
+
+    [See the answers here](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/data-transform.html#exercises)
+
+    Note that the answers use chapter 4.2.
+
+
+### Exercise 2
+
+Read [R for data science, chapter 7](https://r4ds.hadley.nz/data-import.html)
+until the exercises of 7.2.4.
+
+???- question "Answers"
+
+    [See the answers here](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/data-import.html)
+
+    Note that the answers use chapter 8.2.4.
+
+
+

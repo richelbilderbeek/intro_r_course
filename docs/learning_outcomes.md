@@ -1,14 +1,21 @@
 # Learning outcomes
 
-- Comfortable with the first three chapters of
-  [R for Data Science](https://r4ds.hadley.nz/)
+The goal of this course is to feel comfortable
+starting to learn R and the Tidyverse.
 
+- Feel comfortable with the book 'R for Data Science'
+- Feel comfortable with using the `swirl` package
 - Can use `ggplot2` for simple plots
 - Can create simple ggplots from tidy data
-- Can set the aesthetics `x`, `y` and `color`
-- Can use `geom_scatter`, `geom_boxplot` and `geom_smooth`
-  for simple aesthetics
-
-
+- Can use some ggplot aesthetics
+- Can use some ggplot geometrical objects
+- Can assign a value to a variable
+- Can tell what snake case is
+- Can write a comment
+- Can correct typos in simple code
+- Can use the pipe operator
+- Can use a filter
+- Can use the logical equal operator
+- Can read a file
 
 The learning outcomes are tested in [the evaluation](evaluation.md).

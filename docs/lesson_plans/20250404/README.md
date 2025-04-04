@@ -3,7 +3,7 @@
 Learning outcomes:
 
 - installing tidyverse, use RStudio
-- using R for data science chapters 1, 2, 3,
+- using R for data science chapters 1, 2, 3, 7
 
 Lesson setup:
 
