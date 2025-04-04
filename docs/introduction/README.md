@@ -21,8 +21,8 @@
 
 ## Goal of this course
 
-![The Tidyverse logo](logo/tidyverse_logo_20.png)
-![The R logo](logo/r_logo_25.png)
+![The Tidyverse logo](../logo/tidyverse_logo_20.png)
+![The R logo](../logo/r_logo_25.png)
 
 Feel comfortable to learn R from a Tidyverse-first approach.
 
