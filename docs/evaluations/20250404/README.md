@@ -2,6 +2,8 @@
 
 ## Raw data
 
+- Number of learners: 14
+- Number of evaluation results: 12 (86% filled in)
 - [Starting condidences](start.csv)
 - [Final condidences and feedback](final.csv)
 
@@ -10,6 +12,7 @@
 - Reflections: [Richèl](../../reflections/20250404/README.md)
 - [R analysis script](analyse.R)
 - [Statistics per learning outcome](stats.csv)
+- Success score: ~80%
 
 ![All confidences](all_confidences.png)
 
