@@ -9,7 +9,7 @@ although I (always?) worry that I (still) talk too much.
 
 With only two hours, I could -and have- only introduced
 the basis of `ggplot2` and `swirl`.
-For those that already knew bas R, I told them
+For those that already knew base R, I told them
 in break-out rooms to move to a next chapter
 on data transformation.
 
