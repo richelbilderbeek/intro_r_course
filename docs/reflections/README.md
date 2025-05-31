@@ -7,6 +7,6 @@ tags:
 
 Here are the reflections of this course:
 
-No |Date      |Reflection
----|----------|--------------------------
-1  |2025-04-04|[here](20250404/README.md)
+No |Date      |Reflections
+---|----------|--------------------------------
+1  |2025-04-04|[Reflection](20250404/README.md)
