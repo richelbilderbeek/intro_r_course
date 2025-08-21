@@ -160,7 +160,7 @@
 - My only critique would be to maybe ask students at the start of the course
   their prior coding knowledge. As in the course information it is written
   like you need R and illustrator.
-  But the course is actually completeable with python and Inkscape/designer.
+  But the course is actually completable with python and Inkscape/designer.
   If there could be some sort of support possible for students
   who prefer python over R that would be great too.
 - It might be nice to introduce ggplot data visualisation earlier in week 1,
@@ -195,7 +195,7 @@
   at varying price points, but considering i was just starting,
   I used the free choice.
   That was perhaps a bit more limiting in my ability to create something,
-  though Im not sure as I did not try the others.
+  though I'm not sure as I did not try the others.
   The last thing I would say is perhaps to put in some examples
   of work that is not so refined and submitted to journals and magazines -
   something that might be a bit more achievable for PhD/ post doc work.
