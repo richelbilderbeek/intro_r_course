@@ -50,9 +50,9 @@ on data transformation.
 - We have time to explore the software and make graphical
   abstract and figures for our own project.
 - The type of exercises, the pace of the course + the constant feedback
-  led to aquiring an actual skill, that we can use for our projects.
-  Illustrating can be chaotic in the beggining,
-  especially with specific softwares,
+  led to acquiring an actual skill, that we can use for our projects.
+  Illustrating can be chaotic in the beginning,
+  especially with specific ,
   so this course helped having a clear view on where to begin.
   Also, this course provided enough material for future need,
   in case we need help on this topic.
@@ -94,9 +94,9 @@ Ha, that is me :-)
   I really enjoyed to do the assignments because I could use my own data
   do develop something I could use later on in my publications or
   presentations. It was also fun to know all the logic behind the way our
-  brain receive and interpretate an image, and the ways we could improve
+  brain receive and interpret an image, and the ways we could improve
   our illustrations for a better communication process.
-  Also the use of different softwares and the potential of each one.
+  Also the use of different  and the potential of each one.
   I learned a lot and I am
   very grateful I have the opportunity to take this course on time
   before my first manuscripts submissions.
@@ -163,7 +163,7 @@ I would need an extra two hours for that.
   If there could be some sort of support possible for students
   who prefer python over R that would be great too.
 - It might be nice to introduce ggplot data visualisation earlier in week 1,
-  so there is a bit more time to learn to work with this programm and
+  so there is a bit more time to learn to work with this program and
   already get feedback together
   with the graphical abstract at the start of week 2.
 
