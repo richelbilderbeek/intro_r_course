@@ -15,7 +15,7 @@ tags:
 
 Week|Date                     |Time
 ----|-------------------------|-----------
-14  |Friday April 4th 2025    |13:00-16:00
+40  |Friday October 3rd 2025  |13:00-15:00
 
 
 <!-- markdownlint-enable MD013 -->
