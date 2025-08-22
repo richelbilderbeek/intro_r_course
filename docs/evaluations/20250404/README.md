@@ -46,7 +46,11 @@
 
 ## [KI feedback results](ki_feedback_results.pdf)
 
-### 16. Were there any parts of the course that were excellent? If so, please specify which parts and in what way.
+<!-- markdownlint-disable MD013 --><!-- Verbating one-liners cannot be split up over lines, hence will break 80 characters per line -->
+
+### 16. Were there any parts of the course that were excellent? If so, please specify which parts and in what way
+
+<!-- markdownlint-enable MD013 -->
 
 - I especially liked the setting with break out rooms and small drawing tasks
   to engage people! You managed to have us build a connection as a
@@ -75,7 +79,7 @@
   so please keep these discussion/break out sessions in
   the course.
 - The teachers were excellent and actively tried to make the content engaging
-  (even the coding!). 
+  (even the coding!).
   The teachers were very reachable by slack
   too. I learnt valuable knowledge in how to apply design principles
   to communicate my science. I like how we have each other feedback and we
@@ -132,7 +136,11 @@
   give input about the task.
   This is one of the best online courses I’ve ever attended.
 
-### 17. Do you have any recommendations as to how the course could be improved? If so, please specify which parts and how.
+<!-- markdownlint-disable MD013 --><!-- Verbating one-liners cannot be split up over lines, hence will break 80 characters per line -->
+
+### 17. Do you have any recommendations as to how the course could be improved? If so, please specify which parts and how
+
+<!-- markdownlint-enable MD013 -->
 
 - Maybe spend more time for Mermaid.
   It was a very interesting tool but in just a short time.
