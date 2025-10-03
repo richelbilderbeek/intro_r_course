@@ -13,4 +13,6 @@ The group was markedly slower than the previous one.
 This may be explained by this session being optional:
 it seems most experienced R users have skipped it, except for one.
 
+Due to the group being slower, I could not even discuss the most basic
+of things. Due to this, the end was rushed :-/
 
