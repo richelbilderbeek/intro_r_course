@@ -16,3 +16,18 @@ it seems most experienced R users have skipped it, except for one.
 Due to the group being slower, I could not even discuss the most basic
 of things. Due to this, the end was rushed :-/
 
+## Evaluation results
+
+The feedback is clear: the pace was too high. Without the experts around,
+go slower next time
+
+- [ ] Go slower next time
+
+Even though I felt bad, enough learners remarked my energy. I am
+happy to see that it does not show.
+
+## Conclusion
+
+I would give my teaching a 6.5 out of 10, as I did not slow down enough.
+
+
