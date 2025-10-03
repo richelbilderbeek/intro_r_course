@@ -5,16 +5,17 @@ starting to learn R and the Tidyverse.
 
 === "Session 1: ggplot and basic R"
 
-    - Feel comfortable with the book 'R for Data Science'
-    - Feel comfortable with using the `swirl` package
-    - Can use `ggplot2` for simple plots
-    - Can create simple ggplots from tidy data
-    - Can use some ggplot aesthetics
-    - Can use some ggplot geometrical objects
-    - Can assign a value to a variable
-    - Can tell what snake case is
-    - Can write a comment
-    - Can correct typos in simple code
+    - I feel comfortable with the book 'R for Data Science'
+    - I can recommend the `swirl` package to the right person
+    - I can use `ggplot2` to create a simple plot
+    - I can save a plot created by `ggplot2`
+    - I can tell what `ggplot2` aesthetics are
+    - I can tell what `ggplot2` geometrical objects are
+    - I can assign a value to a variable
+    - I can use snake case when naming a variable
+    - I can write a comment
+    - I can correct typos in simple code
+    - I can read a comma-separated file
 
 === "Session 2: data wrangling"
 

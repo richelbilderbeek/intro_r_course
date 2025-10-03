@@ -24,10 +24,10 @@ Done!
 
 Topic       | Status
 ------------|-----------------------------------------------------------------
-Introduction| Needs update LOs
+Introduction| Done
 Plotting    | Done
 Basic R     | Done
 Data import | Done
-Summary     | Does not exist yet
-Evaluation  | Needs update LOs
+Summary     | Done
+Evaluation  | Done
 
