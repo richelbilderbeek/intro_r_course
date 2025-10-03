@@ -2,13 +2,13 @@
 
 !!!- info "Learning outcomes"
 
-    - Comfortable with the second chapter of
+    - I am comfortable with the second chapter of
       [R for Data Science](https://r4ds.hadley.nz/)
-    - Comfortable with using the `swirl` package
-    - Can assign a value to a variable
-    - Can tell what snake case is
-    - Can write a comment
-    - Can correct typos in simple code
+    - I can recommend the `swirl` package to the right person
+    - I can assign a value to a variable
+    - I can use snake case when naming a variable
+    - I can write a comment
+    - I can correct typos in simple code
 
 ???- question "For teachers"
 
@@ -28,15 +28,13 @@
     - What is a comment?
     - Why use a comment?
     - What is meant with 'snake case'?
-    - What is an interpreter?
 
     Feedback questions:
 
     - What is a variable?
-    - How does the assignment operator look like?
     - Why use a comment?
     - What is meant with 'snake case'?
-    - What is an interpreter?
+    - Why use variable names with snake case?
 
 ## Why basic R is important
 

@@ -2,9 +2,9 @@
 
 !!!- info "Learning outcomes"
 
-    - Comfortable with the seventh chapter of
+    - I am comfortable with the seventh chapter of
       [R for Data Science](https://r4ds.hadley.nz/)
-    - Can read a file
+    - I can read a comma-separated file
 
 ???- question "For teachers"
 
@@ -12,6 +12,7 @@
 
     - Learners have read part the sevent chapter of
       [R for Data Science](https://r4ds.hadley.nz/)
+    - Learners have read a comma-seperated file
 
     Prior question:
 

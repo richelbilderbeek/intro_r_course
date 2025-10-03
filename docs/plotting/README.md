@@ -2,12 +2,12 @@
 
 !!!- info "Learning outcomes"
 
-    - Comfortable with the first chapter of
+    - I am comfortable with the first chapter of
       [R for Data Science](https://r4ds.hadley.nz/)
-    - Can use `ggplot2` for simple plots
-    - Can create simple ggplots from tidy data
-    - Can use some ggplot aesthetics
-    - Can use some ggplot geometrical objects
+    - I can use `ggplot2` to create a simple plot
+    - I can save a plot created by `ggplot2`
+    - I can tell what `ggplot2` aesthetics are
+    - I can tell what `ggplot2` geometrical objects are
 
 ???- question "For teachers"
 
