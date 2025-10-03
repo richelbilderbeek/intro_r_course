@@ -5,3 +5,5 @@
 - [Reflection](../../reflections/20251003/README.md)
 - Session 1: ggplot2 and basic R
 - Date: 2025-10-03
+- [pre.csv](pre.csv)
+- [post.csv](post.csv)
