@@ -22,6 +22,13 @@ Done!
 
 ### Status
 
+Status      | Topic
+------------|-----------------------------------------------------------------
+.| [Introduction](introduction_1/README.md)
+.|[Plotting](plotting/README.md)
+.| [Basic R](basic_r/README.md),
+.|[data import](data_import/README.md)
+.| [Evaluation](evaluation.md)
 
 
 

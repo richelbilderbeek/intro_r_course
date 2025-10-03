@@ -12,6 +12,7 @@ nav:
     - Introduction 1: introduction_1/README.md
     - Plotting: plotting/README.md
     - Basic R: basic_r/README.md
+    - Data importt: data_import/README.md
     - Introduction 2: introduction_2/README.md
     - Data transformation: data_transformation/README.md
     - Data tidying: data_tidying/README.md
