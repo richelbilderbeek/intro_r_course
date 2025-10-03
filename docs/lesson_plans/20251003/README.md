@@ -6,4 +6,16 @@
 - Session: 1: ggplot2 and basic R
 - Date: 2025-10-03
 
+## 2025-10-03
+
+I only have today to prepare. I am ill: I have back pain that hurts. It
+hurts least when I stand, so I will do that. With some painkillers, I will
+pull through as usual. But it does hinder my clarity of thought. Let's
+see how well I do.
+
+### Reflection from previous time
+
+- [x] Make R session optional
+
+I should put this in the couse material.
 

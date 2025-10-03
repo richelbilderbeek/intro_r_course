@@ -224,7 +224,7 @@ I can agree to move this earlier.
 
 My suggestions for the course coordinator:
 
-- [ ] Put Mermaid in the schedule earlier
-- [ ] Put R in the schedule earlier
-- [ ] Make R session optional
-- [ ] I am able to do more R data wrangling, at two more hours
+- [x] Put Mermaid in the schedule earlier
+- [x] Put R in the schedule earlier
+- [x] Make R session optional
+- [x] I am able to do more R data wrangling, at two more hours
