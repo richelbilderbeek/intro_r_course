@@ -130,7 +130,9 @@ ggplot2::ggplot(t_averages, ggplot2::aes(x = mean, fill = when)) +
 t_stats <- tibble::tibble(question = unique(t$question), mean_pre = NA, mean_post = NA, p_value = NA, different = NA)
 for (question in unique(t$question)) {
   pre_values <- t[t$question == question & t$when == "pre", ]$answer
+  pre_values <- pre_values[!is.na(pre_values)]
   post_values <- t[t$question == question & t$when == "post", ]$answer
+  post_values <- post_values[!is.na(post_values)]
   p <- wilcox.test(pre_values, post_values)
   t_stats[t_stats$question == question, ]$mean_pre <- mean(pre_values)
   t_stats[t_stats$question == question, ]$mean_post <- mean(post_values)
