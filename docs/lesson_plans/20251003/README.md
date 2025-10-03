@@ -15,7 +15,13 @@ see how well I do.
 
 ### Reflection from previous time
 
-- [x] Make R session optional
+- [x] Make R session optional. I should put this in the couse material.
+  Done!
 
-I should put this in the couse material.
+Done!
+
+### Status
+
+
+
 
