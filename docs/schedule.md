@@ -25,7 +25,7 @@ tags:
     ------------|-----------------------------------------------------------------
     13:00-13:15 | [Introduction](introduction_1/README.md)
     13:15-13:45 | [Plotting](plotting/README.md)
-    13:45-14:00 | [Basic R 1/2](basic_r/README.md)
+    13:40-14:00 | [Basic R 1/2](basic_r/README.md)
     14:00-14:15 | Break
     14:15-14:50 | [Basic R 2/2](basic_r/README.md), (optional) [Data import](data_import/README.md)
     14:50-14:55 | [Summary](summary_1.md)
