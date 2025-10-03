@@ -11,6 +11,8 @@
 
 ## [Statistics](stats.md)
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 |question                                              |  mean_pre| mean_post|   p_value|different |
 |:-----------------------------------------------------|---------:|---------:|---------:|:---------|
 |I feel comfortable with the book 'R for Data Science' | 0.7692308|  4.000000| 0.0002311|TRUE      |
@@ -24,6 +26,8 @@
 |I can write a comment                                 | 1.9230769|  3.666667| 0.0520753|FALSE     |
 |I can correct typos in simple code                    | 1.9230769|  3.777778| 0.0283757|TRUE      |
 |I can read a comma-separated file                     | 1.9230769|  3.875000| 0.0457190|TRUE      |
+
+<!-- markdownlint-enable MD013 -->
 
 ## Confidence
 

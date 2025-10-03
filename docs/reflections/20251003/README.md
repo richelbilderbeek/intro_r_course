@@ -30,4 +30,3 @@ happy to see that it does not show.
 
 I would give my teaching a 6.5 out of 10, as I did not slow down enough.
 
-
