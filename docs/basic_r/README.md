@@ -95,5 +95,7 @@ Basic R applies to all programming in R.
 - Give your name
 - Pick the `R Programming` course
 - Pick the `1: Basic Building Blocks` lesson
-- Complete it
+- Do at least 1 exercise, so you know how `swirl` behaves:
+  the goal is to know whether to recommend/use `swirl`.
+  Do as much exercises of this lesson as you think is useful to you
 

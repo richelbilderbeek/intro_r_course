@@ -47,13 +47,16 @@ using a unified (and extensible) grammar,
 which allows you to express your unique
 plotting needs.
 
+Additionally,
+[`ggplot2` is the CRAN package with the most downloads per month](https://r-packages.io/top-packages).
+
 ## Exercises
 
-### Exercise 1
+### Exercise 1: your first `ggplot2` plots
 
 - Read [R for data science, chapter 1](https://r4ds.hadley.nz/data-visualize.html)
   until the exercises of 1.2.5
-- Do these exercises
+- Do all exercises of 1.2.5
 
 ???- question "Answers"
 
@@ -61,11 +64,23 @@ plotting needs.
 
     Note that the answers use chapter 2.2.5.
 
-### (optional) Exercise 2
+### Exercise 2: saving your plots
+
+- Read [R for data science, chapter 1](https://r4ds.hadley.nz/data-visualize.html)
+  until the exercises of 1.6.1
+- Do all exercises of 1.6.1.
+
+???- question "Answers"
+
+    [See the answers here](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/data-visualize.html#exercises-3)
+
+    Note that the answers use chapter 2.6.1.
+
+### (optional) Exercise 3: different type of data, different type of plot
 
 - Read [R for data science, chapter 1](https://r4ds.hadley.nz/data-visualize.html)
   until the exercises of 1.4.3.
-- Do these exercises
+- Do all exercises of 1.4.3
 
 ???- question "Answers"
 
@@ -73,26 +88,14 @@ plotting needs.
 
     Note that the answers use chapter 2.4.3.
 
-### (optional) Exercise 3
+### (optional) Exercise 4: expressing relations in color, fill and facets
 
 - Read [R for data science, chapter 1](https://r4ds.hadley.nz/data-visualize.html)
   until the exercises of 1.5.5
-- Do these exercises
+- Do all exercises of 1.5.5
 
 ???- question "Answers"
 
     [See the answers here](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/data-visualize.html#exercises-2)
 
     Note that the answers use chapter 2.5.5.
-
-### (optional) Exercise 4
-
-- Read [R for data science, chapter 1](https://r4ds.hadley.nz/data-visualize.html)
-  until the exercises of 1.6.1
-- Do these exercises
-
-???- question "Answers"
-
-    [See the answers here](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/data-visualize.html#exercises-3)
-
-    Note that the answers use chapter 2.6.1.

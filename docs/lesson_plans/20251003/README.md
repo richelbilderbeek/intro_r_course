@@ -22,11 +22,12 @@ Done!
 
 ### Status
 
-Status      | Topic
+Topic       | Status
 ------------|-----------------------------------------------------------------
-.|Introduction
-.|Plotting
-.|Basic R
-.|Data import
-.| [Evaluation](evaluation.md)
+Introduction| Needs update LOs
+Plotting    | Done
+Basic R     | Done
+Data import | Done
+Summary     | Does not exist yet
+Evaluation  | Needs update LOs
 
