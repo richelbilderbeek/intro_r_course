@@ -42,3 +42,6 @@ Richel
 visualisation
 youtube
 KTH
+CRAN
+HPC
+LOs
