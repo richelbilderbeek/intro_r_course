@@ -19,11 +19,22 @@ tags:
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-Time        | Topic
-------------|-----------------------------------------------------------------
-13:00-14:00 | [Introduction](introduction/README.md), [Plotting](plotting/README.md)
-14:00-14:15 | Break
-14:15-14:00 | [Basic R](basic_r/README.md), [data transformation](data_transformation/README.md)
-14:45-15:00 | [Evaluation](evaluation.md)
+=== "Session 1: ggplot2 and basic R"
+
+    Time        | Topic
+    ------------|-----------------------------------------------------------------
+    13:00-14:00 | [Introduction](introduction/README.md), [Plotting](plotting/README.md)
+    14:00-14:15 | Break
+    14:15-14:00 | [Basic R](basic_r/README.md), (optional) [data transformation](data_transformation/README.md)
+    14:45-15:00 | [Evaluation](evaluation.md)
+
+=== "Session 2: data wrangling"
+
+    Time        | Topic
+    ------------|-----------------------------------------------------------------
+    10:00-11:00 | Introduction, [data transformation](data_transformation/README.md)
+    11:00-11:15 | Break
+    11:15-11:50 | [Data tidying](data_tidying/README.md)
+    11:50-12:00 | [Evaluation](evaluation.md)
 
 <!-- markdownlint-enable MD013 -->
