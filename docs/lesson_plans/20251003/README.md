@@ -30,5 +30,3 @@ Status      | Topic
 .|[data import](data_import/README.md)
 .| [Evaluation](evaluation.md)
 
-
-
