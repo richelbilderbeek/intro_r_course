@@ -15,7 +15,7 @@ see how well I do.
 
 ### Reflection from previous time
 
-- [x] Make R session optional. I should put this in the couse material.
+- [x] Make R session optional. I should put this in the course material.
   Done!
 
 Done!
