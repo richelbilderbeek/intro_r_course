@@ -5,3 +5,12 @@
 - [Reflection](../../reflections/20251003/README.md)
 - Session: 1: ggplot2 and basic R
 - Date: 2025-10-03
+
+I was ill this day. I think the teaching went well, but due to
+pain I did not enjoy it as much as I usually do.
+
+The group was markedly slower than the previous one.
+This may be explained by this session being optional:
+it seems most experienced R users have skipped it, except for one.
+
+
