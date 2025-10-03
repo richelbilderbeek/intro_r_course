@@ -9,13 +9,14 @@ testthat::expect_true(file.exists(evaluation_file))
 t_pre_raw <- readr::read_csv(prevaluation_file, show_col_types = FALSE)
 t_post_raw <- readr::read_csv(evaluation_file, show_col_types = FALSE)
 
-other_feedback_post <- t_post_raw[, 12]
+other_feedback_post <- t_post_raw[, 13]
 readr::write_csv(other_feedback_post, "feedback.csv")
 
-t_post_raw[, 12] <- NULL
+t_post_raw[, 13] <- NULL
 t_pre_raw$Timestamp <- NULL
 t_post_raw$Timestamp <- NULL
 testthat::expect_true(all(names(t_pre_raw) == names(t_post_raw)))
+names(t_pre_raw) == names(t_post_raw)
 
 #' Shorten the names of the columns
 shorten_col_names <- function(t) {
