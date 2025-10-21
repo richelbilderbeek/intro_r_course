@@ -27,7 +27,7 @@
 |I can correct typos in simple code                    | 1.9230769|  3.777778| 0.0283757|TRUE      |
 |I can read a comma-separated file                     | 1.9230769|  3.875000| 0.0457190|TRUE      |
 
-<!-- markdownlint-enable MD013 -->
+<!-- markdownlint-enable MD013 -->f
 
 ## Confidence
 
@@ -38,7 +38,7 @@
 ## [Feedback](feedback.csv)
 
 - This was a little fast-paced, even for a user with some experience with R.
-  Very helpfull though! Plenty to take with me and go from here.
+  Very helpful though! Plenty to take with me and go from here.
 - I think the course was a bit too packed - although I have experience in
   coding (in Python) using a ""new"" language takes some time
   so it was difficult to get through all the exercises
