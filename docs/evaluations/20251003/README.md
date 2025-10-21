@@ -9,7 +9,7 @@
 - [post.csv](post.csv)
 - [analyse.R](analyse.R)
 
-## [Statistics](stats.md)
+## [Statistics](stats.txt)
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
