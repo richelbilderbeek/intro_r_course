@@ -5,3 +5,5 @@
 - [Reflection](../../reflections/20251008/README.md)
 - Session 2: data wrangling
 - Date: 2025-10-08
+
+This lesson was cancelled due to me being ill :-/
