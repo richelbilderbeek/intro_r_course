@@ -30,7 +30,7 @@ Feel comfortable to learn R from a Tidyverse-first approach.
 
 ### Exercise 1
 
-- Fill in [the initial confidence form](https://docs.google.com/forms/d/e/1FAIpQLSfB6v6ZKQURSSgvrWpvJ7fzAlRwLv70rrpLNpbpB9X8nQ5rOQ/viewform?usp=header)
+- Fill in the initial confidence form `TODO: create a new form`
 
 ???- question "For teachers: what is in that form?"
 
