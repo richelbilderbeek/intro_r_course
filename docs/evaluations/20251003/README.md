@@ -56,7 +56,11 @@
 
 - [KTH course evaluation results](kth_course_evaluation.pdf)
 
-### 16. Were there any parts of the course that were excellent? If so, please specify which parts and in what way. Were there any parts of the course that were excellent? If so, please specify which parts and in what way.
+### 16. Were there any parts of the course that were excellent?
+
+If so, please specify which parts and in what way.
+Were there any parts of the course that were excellent?
+If so, please specify which parts and in what way
 
 - the course content overall, Meike was a very informative and helpful teacher
 - The course was brilliant — very well put together and thoughtfully structured.
@@ -116,7 +120,11 @@
 - Meike is an amazing professionist and teacher,
   always punctual and understanding of everyone's needs.
 
-### 17. Do you have any recommendations as to how the course could be improved? If so, please specify which parts and how. Do you have any recommendations as to how the course could be improved? If so, please specify which parts and how.
+### 17. Do you have any recommendations as to how the course could be improved?
+
+If so, please specify which parts and how.
+Do you have any recommendations as to how the course could be improved?
+If so, please specify which parts and how
 
 - I think the way that the course is structured in the data viz part
   is a bit messy, meaning that we were required to start working
@@ -129,7 +137,7 @@
 - I am not from Karolinska Institute but from a different uni and
   I was a bit suprised when I got the schedule the week before the course.
   Of course I knew it was a 2-week course
-  but at least for me it was a lot because 
+  but at least for me it was a lot because
   I still had to do my normal lab work next too it.
   Some more information already during the application process
   would have helped.

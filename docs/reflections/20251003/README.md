@@ -34,11 +34,11 @@ I would give my teaching a 6.5 out of 10, as I did not slow down enough.
 
 Here I keep all feedback relevant to R. Which is none :-)
 
-### 16. Were there any parts of the course that were excellent? If so, please specify which parts and in what way. Were there any parts of the course that were excellent? If so, please specify which parts and in what way.
+### 16. Were there any parts of the course that were excellent?
 
 Here I keep all feedback relevant to R. Which is none :-)
 
-### 17. Do you have any recommendations as to how the course could be improved? If so, please specify which parts and how. Do you have any recommendations as to how the course could be improved? If so, please specify which parts and how.
+### 17. Do you have any recommendations as to how the course could be improved?
 
 Here I keep all feedback relevant to R:
 
