@@ -62,7 +62,7 @@ Even though I understand the learner's preconception about what learning
 a programming language is all about, I should help alleviate this
 in my lesson
 
-- [ ] Discuss philosphy of the book
+- [ ] Discuss philosophy of the book
 
 
 - [...]

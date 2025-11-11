@@ -105,7 +105,7 @@ If so, please specify which parts and in what way
   each section's learning goals were clear.
   The balance between "passive" learning and working on our projects was great.
   I particularly liked that we could work with our data and topics.
-  Moreover, the instructor was extremely knowledgeble
+  Moreover, the instructor was extremely knowledgable
   and very open to students' questions and feedback.
 - The Adobe classes were extremely nice!
   The setup of the document to learn the most important tools
@@ -135,7 +135,7 @@ If so, please specify which parts and how
   It could be better to first give more background on how R functions
   and then make the students work on the coding.
 - I am not from Karolinska Institute but from a different uni and
-  I was a bit suprised when I got the schedule the week before the course.
+  I was a bit surprised when I got the schedule the week before the course.
   Of course I knew it was a 2-week course
   but at least for me it was a lot because
   I still had to do my normal lab work next too it.
@@ -170,7 +170,7 @@ If so, please specify which parts and how
   to use the software, and experienced users could focus on more advanced
   exercises and tools.
 - I found that the mermaid toolbox was not that useful
-  and the time alocated to it was not needed.
+  and the time allocated to it was not needed.
 - The course is well structured and touches on so many aspects of learning.
   However, the one major thing that can be improved is to find a way
   to help complete beginners in more active way to avoid
