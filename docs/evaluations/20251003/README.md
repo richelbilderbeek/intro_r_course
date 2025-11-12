@@ -105,7 +105,7 @@ If so, please specify which parts and in what way
   each section's learning goals were clear.
   The balance between "passive" learning and working on our projects was great.
   I particularly liked that we could work with our data and topics.
-  Moreover, the instructor was extremely knowledgable
+  Moreover, the instructor was extremely knowledgeable
   and very open to students' questions and feedback.
 - The Adobe classes were extremely nice!
   The setup of the document to learn the most important tools
