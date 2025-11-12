@@ -100,7 +100,6 @@ learning a programming language is about learning data types.
 I could go into more basic R, but I agree with the book's idea more:
 let's start with doing useful work!
 
-HIERO
 
 - I didn't enjoy group work in R. I think that when it comes to coding,
   individual work is the way to go. When it’s such diverse group there
@@ -109,16 +108,38 @@ HIERO
   I had similar sessions several times and it always ends like that,
   which means that most people learn nothing during it.
   But it was just one exercise, so no biggie.
+
+I understand the perspective. And reading my reflection on the group,
+there were indeed enough beginners. I assume that this person was
+not a beginner and -indeed- helped out all beginners instead.
+I have seen group work work better in other courses, so there
+this person and I have different experiences. I do think I should
+try out groups of 1 next time
+
+- [ ] Try our breakout rooms of 1 person
+
 - Maybe the course could be divided in two:
   one for complete beginners, and one for users with some experience.
   Beginners could benefit from having more dedicated time to learn
   to use the software, and experienced users could focus on more advanced
   exercises and tools.
+
+Interesting, as that was the idea me and Meike had: by making it optional,
+the experienced R programmers would not be in this session anymore.
+But I do remember that I should spend more time explaining RStudio.
+Let's do so next time
+
+- [ ] Spend time showing RStudio
+
 - [...] The one major thing that can be improved is to find a way
   to help complete beginners in more active way to avoid
   them having the anxiety out not understanding something and
   feeling the pressure because others are ahead with the task.
   Otherwise, they end up feeling left behind.
+
+Me and the learners are on the same team here.
+As I try out breakout rooms of 1 next time,
+maybe that will solve this problem too.
 
 - Sessions regarding the use of R could be more wisely organized.
   [...]
@@ -126,18 +147,39 @@ HIERO
   through the exercises if you had not worked with R before.
   Maybe a similar tutorial session with self-study component
   that was now done with Illustrator could work better also with R.
+
+As I try out breakout rooms of 1 next time,
+maybe that will solve this problem too.
+
+
 - Martin Jonsson had a accessible presentation about R,
   but fluency and structure could be improved
   (seemed confused with some examples).
   How do we use ggplot in concert with vector software to make a clear figure?
+
+Not about me. Note that he was called in with short notice,
+so maybe this was something that could not have been prevented.
+
 - I can recommend some clarity in the syllabus,
   there is no mention there about R,
   however it still was a dominant part of the course.
   Based on the syllabus my expectations were a course
   predominant on the usage illustration software and
   not an introduction to using R and plotting with R.
+
+I think this is an important point: it **is** an illustration course
+and not an R course. I maybe even agree that R was too dominant here.
+This is something for Meike to decide: to keep or remove R.
+
+- [ ] Suggest to Meike to remove R from the course
+
 - I think the r coding parts were the weakest part of the course.
   I luckily had prior knowledge of R, so for me it was good to follow.
   However, the coding that was shown was usually very fast
   without explaining every step.
   I can imagine this is not optimal for new learners.
+
+I see point. Here too:
+
+- [ ] Discuss philosophy of the book
+
