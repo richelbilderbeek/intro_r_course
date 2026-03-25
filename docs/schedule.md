@@ -35,9 +35,11 @@ tags:
 
     Time        | Topic
     ------------|-----------------------------------------------------------------
-    10:00-11:00 | [Introduction](introduction_2/README.md), [data transformation](data_transformation/README.md)
+    9:00-10:00  | [Introduction](introduction_2/README.md), [data transformation](data_transformation/README.md)
+    10:00-10:15 | Break
+    10:15-11:00 | .
     11:00-11:15 | Break
-    11:15-11:50 | [Data tidying](data_tidying/README.md)
+    11:15-11:50 | .
     11:50-12:00 | [Evaluation](evaluation.md)
 
 <!-- markdownlint-enable MD013 -->
