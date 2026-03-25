@@ -191,4 +191,5 @@ and/or use an AI.
 
 Create the plot you need for this course.
 Follow the steps at [the 'A typical project visualization' section](#a-typical-project-visualization).
-
+Read the chapters if needed and/or search the web and/or use an AI to get what
+you need.
