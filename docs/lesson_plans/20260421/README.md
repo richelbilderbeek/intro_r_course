@@ -6,5 +6,10 @@
 - Session: 2: data wrangling
 - Date: 2026-04-21
 
-## Goal
+## 2026-03-25
 
+- Heavily learner centered
+- Work in groups
+- Find out where help is needed, teach if needed
+
+Good enough!
