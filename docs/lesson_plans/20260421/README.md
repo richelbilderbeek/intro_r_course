@@ -5,3 +5,6 @@
 - [Reflection](../../reflections/20260421/README.md)
 - Session: 2: data wrangling
 - Date: 2026-04-21
+
+## Goal
+

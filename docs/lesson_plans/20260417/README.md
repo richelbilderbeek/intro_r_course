@@ -5,3 +5,6 @@
 - [Reflection](../../reflections/20260417/README.md)
 - Session: 1: ggplot2 and basic R
 - Date: 2026-04-17
+
+I already know the first chapters that will be discussed.
+I will be in the role of TA here, so no need to prepare more :-)
