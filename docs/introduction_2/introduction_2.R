@@ -27,9 +27,10 @@ ggsave("my_plot.png")
 
 ggplot(t, aes(x = t, y = n, color = country)) +
   geom_line() +
+  geom_point() +
   scale_x_continuous("Time (year)") +
-  scale_y_continuous("Number of people (million)", limits = c(0, NA)) +
-  labs(title = "Population size in time, per country", color = "Country")
+  scale_y_continuous("Population size (million)", limits = c(0, NA)) +
+  labs(title = "Population size in time", color = "Country")
 
 ggsave("my_plot_2.svg")
 ggsave("my_plot_2.png")
