@@ -15,6 +15,8 @@
 - Yes: 6x
 - No: 0x
 
+I will call this a success score of 100%.
+
 ## Any other feedback?
 
 - Interactive lecture +++
