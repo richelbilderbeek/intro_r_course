@@ -106,7 +106,7 @@ The data must be transformed to be tidy, which
 
 - Each variable is a column; each column is a variable.
 - Each observation is a row; each row is an observation.
-- Each value is a cell; each cell is a single value. 
+- Each value is a cell; each cell is a single value.
 
 Our data is not tidy yet:
 

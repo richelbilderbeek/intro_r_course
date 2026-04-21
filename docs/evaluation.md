@@ -24,7 +24,7 @@ This is the page for evaluating the current iteration of the course.
     in the feedback.
     Do mention the teachers, assistants, etc by name!
 
---> 
+-->
 
 - [Final confidence form and feedback](https://docs.google.com/forms/d/e/1FAIpQLSftQ8Rxnlft-4jo8rB5NEaa-LSGG5RmnzOXjiiWSUGqlOPNJQ/viewform?usp=publish-editor)
 
