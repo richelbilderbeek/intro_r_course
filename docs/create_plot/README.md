@@ -157,7 +157,7 @@ ggplot(t, aes(x = name, y = value, color = Country)) + geom_line() # Will fail
 
 We do some data transformations:
 
-```
+```r
 names(t) <- c("country", "t", "n")
 t$country <- as.factor(t$country)
 t$t <- as.numeric(t$t)

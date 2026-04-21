@@ -17,7 +17,7 @@ Including testing Zoom multiple times.
 
 ## Teaching
 
-Teaching went super smooth. 
+Teaching went super smooth.
 
 I took the time to repeat the goal of the session multiple times
 and to use a Prior to build rapport.

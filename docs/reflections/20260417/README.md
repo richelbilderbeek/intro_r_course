@@ -5,3 +5,6 @@
 - [Reflection](../../reflections/20260417/README.md)
 - Session: 1: ggplot2 and basic R
 - Date: 2026-04-17
+
+I was the teaching assistant here and will keep my reflections about
+others private.
