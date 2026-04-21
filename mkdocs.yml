@@ -14,7 +14,7 @@ nav:
     - Basic R: basic_r/README.md
     - Data import: data_import/README.md
     - Summary 1: summary_1.md
-    - Introduction 2: introduction_2/README.md
+    - Create a plot: create_plot/README.md
     - Data transformation: data_transformation/README.md
     - Data tidying: data_tidying/README.md
   - Misc:

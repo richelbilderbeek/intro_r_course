@@ -1,4 +1,4 @@
-# Introduction
+# Create a plot
 
 !!!- info "Learning outcomes"
 
@@ -226,3 +226,8 @@ Create the plot you need for this course.
 Follow the steps at [the 'A typical project visualization' section](#a-typical-project-visualization).
 Read the chapters if needed and/or search the web and/or use an AI to get what
 you need.
+
+## Links
+
+- [`ggplot2` overview of plots](https://r-graph-gallery.com/ggplot2-package.html)
+- [`ggplot2` cheat sheet](https://rstudio.github.io/cheatsheets/data-visualization.pdf)
