@@ -2,23 +2,45 @@
 
 !!!- info "Learning outcomes"
 
-    - Understand the goal of today
-    - Read the learning outcomes of today
+    - Learners have created a plot from their data
+    - Learners have used the book
+      ['R for Data Science'](https://r4ds.hadley.nz/) for things they need
 
 ???- question "For teachers"
 
     Teaching goals are:
 
-    - Learners have heard to goal of the course
-    - Learners have filled in the initial confidence form
+    - Repeat previous session
+
+    Repeat:
+
+    - What is `ggplot2`?
+    - What is `gg` in `gplot2`?
+    - Why use `ggplot2` for plotting?
+    - In `ggplot2` terminology, what is an aesthetics?
+    - In `ggplot2` terminology, what is a geometrical objects?
 
     Prior question:
 
     - .
 
+
 ## Goal of today
 
-Be able to create your plot from your data.
+Be able to create your plot from your data:
+
+From this data ...
+
+Country  |2000|2015|2030
+---------|----|----|----
+China    |1270|1376|1416
+India    |1053|1311|1528
+
+and [some R code](introduction_2.R) to create this figure ...
+
+![My refined plot](my_plot_2.png)
+
+after which the figure (as an SVG) can be worked upon in other tools.
 
 ## A typical project visualization
 
@@ -26,7 +48,16 @@ You want to visualize past and predicted
 population size by country, using
 [the data from the Wikipedia article 'World population'](https://en.wikipedia.org/wiki/World_population)
 
-### 1. Preparing the data
+These are the steps:
+
+- [1. Preparing the data](#1-preparing-the-data)
+- [2. Reading the data](#2-reading-the-data)
+- [3. Tidying the data](#3-tidying-the-data)
+- [4. Cleaning the data](#4-cleaning-the-data)
+- [5. Saving the plot](#5-saving-the-plot)
+- [6. Refine](#6-refine)
+
+## 1. Preparing the data
 
 You (wisely) decide to start with only a subset of
 [the data from the Wikipedia article 'World population'](https://en.wikipedia.org/wiki/World_population):
@@ -46,7 +77,7 @@ This data is best saved as a comma-separated (`.csv`) file.
 If your data is in a spreadsheat (e.g. Calc or Excel),
 you can typically export your data as a (`.csv`) file.
 
-### 2. Reading the data
+## 2. Reading the data
 
 When the data is saved as a `.csv` file called
 [`introduction_2.csv`](introduction_2.csv),
@@ -62,7 +93,7 @@ Now you data is in a table called `t`.
 Reading the data is described in
 [Chapter 7: Data Import](https://r4ds.hadley.nz/data-import.html).
 
-### 3. Tidying the data
+## 3. Tidying the data
 
 The data must be transformed to be tidy, which
 [holds these features](https://r4ds.hadley.nz/data-tidy.html#sec-tidy-data):
@@ -109,7 +140,7 @@ Transforming the data is described in:
 - [Chapter 3: Data Transformation](https://r4ds.hadley.nz/data-transform.html)
 - [Chapter 5: Data Tidying](https://r4ds.hadley.nz/data-tidy.html)
 
-### 4. Cleaning the data
+## 4. Cleaning the data
 
 We need to clean the data, as plotting the data as such will fail:
 
@@ -142,7 +173,6 @@ Plotting this now works:
 ```r
 ggplot(t, aes(x = t, y = n, color = country)) + geom_line()
 ```
-
 
 ## 5. Saving the plot
 
