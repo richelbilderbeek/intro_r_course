@@ -27,7 +27,7 @@
 
 ## Goal of today
 
-Be able to create your plot from your data:
+To create a plot from your data.
 
 ???- question "Could you give an example?"
 
