@@ -35,7 +35,7 @@ tags:
 
     Time        | Topic
     ------------|-----------------------------------------------------------------
-    9:00-10:00  | [Introduction](introduction_2/README.md)
+    9:00-10:00  | [Create a plot](create_plot/README.md)
     10:00-10:15 | Break
     10:15-11:00 | .
     11:00-11:15 | Break
