@@ -58,3 +58,6 @@ Maike
 Meike's
 Richel's
 professionist
+Calc
+spreadsheat
+SVG
