@@ -29,6 +29,10 @@
 
 To create a plot from your data.
 
+???- question "Prefer a video?"
+
+    [View this session as a YouTube video](https://youtu.be/OwymEQTsks8)
+
 ???- question "Could you give an example?"
 
     From this data ...
