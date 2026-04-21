@@ -29,18 +29,20 @@
 
 Be able to create your plot from your data:
 
-From this data ...
+???- question "Could you give an example?"
 
-Country  |2000|2015|2030
----------|----|----|----
-China    |1270|1376|1416
-India    |1053|1311|1528
+    From this data ...
 
-and [some R code](introduction_2.R) to create this figure ...
+    Country  |2000|2015|2030
+    ---------|----|----|----
+    China    |1270|1376|1416
+    India    |1053|1311|1528
 
-![My refined plot](my_plot_2.png)
+    and [some R code](introduction_2.R) to create this figure ...
 
-after which the figure (as an SVG) can be worked upon in other tools.
+    ![My refined plot](my_plot_2.png)
+
+    after which the figure (as an SVG) can be worked upon in other tools.
 
 ## A typical project visualization
 
