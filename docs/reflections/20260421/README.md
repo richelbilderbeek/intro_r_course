@@ -30,7 +30,8 @@ Unexpectedly, some people did not know how to run R code yet,
 where I expected this to be done in the session before.
 I know that there was 1 learner that missed this earlier session,
 but I found this in 3 more learners to be the case too.
-This seems to me to hint that the first session was too theoretical.
+Having 3 out of 15 learners been unable to run R code in the first session,
+seems to me to suggest that the first session was too theoretical.
 
 ## Evaluation results
 
