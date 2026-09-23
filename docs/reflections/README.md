@@ -14,3 +14,5 @@ No |Date      |Reflections
 2.1|2025-10-08|[Reflection](20251008/README.md)
 1.3|2025-04-17|[Reflection](20260417/README.md)
 2.2|2025-04-21|[Reflection](20260421/README.md)
+3.1|2026-10-12|[Reflection](20261012/README.md)
+3.2|2026-10-13|[Reflection](20261013/README.md)
